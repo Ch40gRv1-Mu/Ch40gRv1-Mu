@@ -1,4 +1,5 @@
 👋 Hi, I’m Changrui
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xZ1mEnn" data-context="false" ><a href="//imgur.com/a/xZ1mEnn"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![game-of-life](https://github.com/Ch40gRv1-Mu/game-of-life/blob/main/game-of-life-loop-cropped.gif)
+
 😊 Glad to make a friend.
